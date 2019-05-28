@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/private/var/mobile/Containers/Data/Application/728DF96C-9923-4BA7-AE3E-974E5F902FAD/Documents'
+let g:netrw_dirhist_2='/private/var/mobile/Containers/Data/Application/728DF96C-9923-4BA7-AE3E-974E5F902FAD/Documents/Inbox'
+let g:netrw_dirhist_3='/private/var/mobile/Containers/Data/Application/728DF96C-9923-4BA7-AE3E-974E5F902FAD/Documents'
+let g:netrw_dirhist_4='/private/var/mobile/Containers/Data/Application/94CE7607-553B-4F19-B73F-0324EAA0DD67/Documents'
+let g:netrw_dirhist_5='/private/var/mobile/Containers/Data/Application/94CE7607-553B-4F19-B73F-0324EAA0DD67/Documents/.vim'
+let g:netrw_dirhist_6='/private/var/mobile/Containers/Data/Application/94CE7607-553B-4F19-B73F-0324EAA0DD67/Documents'
+let g:netrw_dirhist_7='/private/var/mobile/Containers/Data/Application/94CE7607-553B-4F19-B73F-0324EAA0DD67/Documents/.vim'
+let g:netrw_dirhist_8='/private/var/mobile/Containers/Data/Application/94CE7607-553B-4F19-B73F-0324EAA0DD67/Documents'
