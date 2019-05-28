@@ -1,4 +1,6 @@
 backup
 bundles
 session
+vimrc-*
+.netrwhist-*
 .DS_Store
